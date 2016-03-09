@@ -15,7 +15,7 @@ class TelegBotZILA
     {
         $this->webhook           = "https://bot.passwoord.com/html/"; //telegram bot webhook link
         $this->phone             = ""; //phone number
-        $this->botapicode        = "164962116:AAEOR3fdP67BR4h7WpQf1t05P--Ml33Ze6w";
+        $this->botapicode        = "botapi";
         $this->name              = "behzad";
         $this->lastname          = "monfared";
         $this->password          = "123";
