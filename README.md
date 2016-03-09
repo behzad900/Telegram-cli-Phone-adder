@@ -16,11 +16,12 @@ This class help to you for addphone number from your telegrambot into telegram-c
   
   How to use?
   
-         include("TelegBotZILA.php");
+        include("TelegBotZILA.php");
         $Telegram = new TelegBotZILA;
         $Telegram->setPhone("00639434279383");
         $Telegram->Start();
 
+ upload hook.php into ssl site and put the hook link into TelegBotZila.php
 
  if have any question pm me into telegram  @behzadz
   
