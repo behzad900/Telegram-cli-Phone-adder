@@ -14,5 +14,12 @@ This class help to you for addphone number from your telegrambot into telegram-c
     public $ConfigPath; // Config path telegram-cli must have a config file this  config just for make this phone;
     public $CodeMakerPath; // This address for save  code and chatid for registered phone
   
+  How to use?
   
+  include("TelegBotZILA.php");
+        $Telegram = new TelegBotZILA;
+        $Telegram->setPhone("00639434279383");
+        $Telegram->Start();
+        
+        if have any question pm me into telegram  @behzadz
   
